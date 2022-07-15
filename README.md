@@ -1,2 +1,4 @@
-# coder
-testing coder
+# Muhindi Njenga
+
+Programmer with passion
+
