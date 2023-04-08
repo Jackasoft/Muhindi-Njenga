@@ -24,11 +24,11 @@ DATABASE ADMIN
 
 SOFTWARE ENGINEER
 
-    COMING UP WITH THE WHOLE IDEA ON SOFTWARE DEVELOPMENT
+    Documentations, Software testing, Quality testing for the software.
 
 CYBER SECURITY
 
-      PENTESTER
+      PENTESTER, software security, hardware safe and monitoring.
 
 
 
